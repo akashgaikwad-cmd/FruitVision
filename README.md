@@ -15,7 +15,7 @@ FruitVision is a machine learning project built using Jupyter Notebook to identi
      1.clone the Repository:
         git clone https://github.com/yourusername/Fruitvision.git
      2.Navigate to the project directory:
-        cd FruitRecognizer
+        cd Fruitvision
      3.Install the required libraries
         pip install pandas matplotlib tensorflow numpy;
 # Usage
